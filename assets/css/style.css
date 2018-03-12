@@ -1,0 +1,79 @@
+h1 {
+    font-size:60px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.introP {
+    font-size:25px;
+
+}
+
+.timer {
+    font-size: 40px;
+    color: red;
+}
+span {
+    font-size: 18px;
+}
+
+
+.main {
+    position: relative;
+    margin-left:175px;
+    margin-right:175px;
+    margin-top:25px;
+    margin-bottom:25px;
+    padding-bottom:20px;
+    /* background-color: blue; */
+    /* z-index: 2;    */
+}
+
+.poo {
+   position:absolute;
+   left: -140px; 
+   top: 120px;
+   width: 400px;
+}
+
+.poo2 {
+    position:absolute;
+    right: -100px; 
+    top: 400px;
+ }
+
+ .poo3 {
+    position:absolute;
+    left: -80px; 
+    top: 750px;
+    width: 250px;
+ }
+
+.intro {
+    position: absolute;
+    background-color:white;
+    height: 1200px;
+    width: 100%;
+    /* z-index: 3; */
+    padding-top:10%;
+}
+
+.tp {
+    height:300px;
+}
+
+.outtro {
+    position: absolute;
+    background-color:white;
+    height: 1200px;
+    width: 100%;
+    /* z-index: 1; */
+    padding-top:10%;
+   
+}
+
+.answer {
+    font-size: 30px;
+}
